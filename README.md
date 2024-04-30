@@ -1,4 +1,4 @@
 # Fareeha-demo
 This is my first repository
 <br>
-Author-Fareeha
+Author-Fareeha (Stars Developer)
